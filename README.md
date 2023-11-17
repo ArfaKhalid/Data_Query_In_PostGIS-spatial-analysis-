@@ -18,13 +18,13 @@ This repository has queries for working with geospatial data using PostGIS. Post
 ## Usage
 
 1. **Geography Basic:**
-   - Review the `geographybasic` file to understand fundamental geospatial concepts.
+   - The `geographybasic` file is to understand fundamental geospatial concepts.
 
 2. **Installation of PostGIS:**
-   - Follow the instructions in the `installation_of_postgis` file to set up PostGIS in your PostgreSQL database.
+   - The instructions in the `installation_of_postgis` file is used to set up PostGIS in your PostgreSQL database.
 
 3. **Loading of SQL Data:**
-   - Consult `loading_of_sql_data` for loading SQL data into your PostGIS-enabled database.
+   - Used `loading_of_sql_data` for loading SQL data into your PostGIS-enabled database.
 
 4. **Importing File Using shp2pgsql:**
    - Import shapefiles into your database using the `shp2pgsql` tool with the help of the `importing_file_using_shp2pgsql` file.
