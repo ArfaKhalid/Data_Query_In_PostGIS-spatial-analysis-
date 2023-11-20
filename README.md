@@ -1,6 +1,5 @@
 # Geospatial Data Query in PostGIS
-
-This repository has queries for working with geospatial data using PostGIS. PostGIS is an extension for PostgreSQL that adds support for geographic objects, allowing for the storage and querying of spatial data.
+Querying geospatial data in PostGIS involves using SQL statements to retrieve and analyze spatial information stored in a PostgreSQL database with the PostGIS extension. PostGIS is an extension for PostgreSQL that adds support for geographic objects, allowing for the storage and querying of spatial data.
 
 ## Files
 
